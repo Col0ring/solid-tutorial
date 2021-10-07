@@ -10,11 +10,13 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "less": "^4.1.2",
+    "typescript": "^4.4.3",
     "vite": "^2.5.7",
-    "vite-plugin-solid": "^2.0.3",
-    "typescript": "^4.4.3"
+    "vite-plugin-solid": "^2.0.3"
   },
   "dependencies": {
+    "solid-app-router": "^0.1.7",
     "solid-js": "^1.1.3"
   }
 }
